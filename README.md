@@ -83,10 +83,26 @@ console.time()
 console.timeEnd()
 
 // 添加css样式
-console.log('%c牛逼','font-size: 50px; color: red;');
+console.log('%c牛逼','font-size: 50px; color: #F00;');
 ````
 
-### Network
+### Elements
+
+展开所有节点：右击节点后的 expand recursively 命令；Alt + 左键点击DOM节点左侧的箭头
+
+支持拖动&放置元素
+Ctrl + Shift + Z: 撤销所有修改
+Ctrl + Z: 撤销上次修改
+
+### Drawer
+
+Esc：打开/关闭
+
+Sensors(传感器) ：模拟特定的位置，支持从预定义的位置中进行选择，添加自己的位置，或者手动键入纬度/经度
+
+Network conditions：模拟特定的网络行为，3G网络甚至是离线
+
+
 
 
 
