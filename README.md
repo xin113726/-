@@ -41,16 +41,23 @@ Ctrl + Shift + P —— 打开Command菜单
 ````
 
 Sources > Snippets
+
     存放js代码，方便复用
+    
     运行：Ctrl + p，打开command menu，用 ! + 代码块名，查找预设代码块
 
 ### console篇
 
 $0 对当前选中的 html 节点的引用
+
 $1 对上一次选择的节点的引用
+
 s2、s3、s4
+
 $ —— 未被定义过，则对应document.querySelector
+
 $$ —— 执行 document.QuerySelectorAll，返回一个节点的数组
+
 $_ —— 引用上次执行的结果
 
 
