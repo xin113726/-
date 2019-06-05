@@ -21,7 +21,17 @@ arr.sort(function () {
 ### 快捷键
 
 ```` html
-* Ctrl + Shift + D —— 切换面板位置，从开始位置切换到右边的位置
+Ctrl + Shift + D —— 切换面板位置，从开始位置切换到右边的位置
+
 Ctrl + [ 和 Ctrl + ] —— 向左、向右切换面板选项卡
 
+Ctrl + Shift + M —— 切换手机模拟模式和普通模式
+
+Ctrl + Shift + C —— 选择元素
+
+样式递增/递减
+    Alt + 上下箭头，0.1
+    上下箭头，1
+    Shift + 上下箭头，10
+    Ctrl + 上下箭头，100
 ````
