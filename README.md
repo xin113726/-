@@ -20,4 +20,8 @@ arr.sort(function () {
 
 ### 快捷键
 
+```` html
 * Ctrl + Shift + D —— 切换面板位置，从开始位置切换到右边的位置
+Ctrl + [ 和 Ctrl + ] —— 向左、向右切换面板选项卡
+
+````
