@@ -40,11 +40,11 @@ Ctrl + Shift + P —— 打开Command菜单
     输入theme，可切换黑、白主题
 ````
 
-Sources > Snippets
+### Sources > Snippets
 
     存放js代码，方便复用
     
-    运行：Ctrl + p，打开command menu，用 ! + 代码块名，查找预设代码块
+运行：Ctrl + p，打开command menu，用 ! + 代码块名，查找预设代码块
 
 ### console篇
 
