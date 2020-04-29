@@ -1,6 +1,6 @@
 ## Chrome 开发者工具
 
-![](https://github.com/xin113726/Blog/blob/master/imgs/devtools.png)
+![image](https://github.com/xin113726/Blog/blob/master/imgs/devtools.png?raw=true)
 
 [元素面板](https://github.com/xin113726/Blog/issues/1)
 
