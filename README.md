@@ -1,6 +1,15 @@
 ## Chrome 开发者工具
 
+![](https://github.com/xin113726/Blog/blob/master/imgs/devtools.png)
+
 [元素面板](https://github.com/xin113726/Blog/issues/1)
+
+[控制台面板 Console](https://github.com/xin113726/Blog/issues/2)
+
+[源代码面板 Sources](https://github.com/xin113726/Blog/issues/3)
+
+[网络面板 Network](https://github.com/xin113726/Blog/issues/4)
+
 
 #### 目录
 
