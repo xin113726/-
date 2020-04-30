@@ -10,6 +10,8 @@
 
 [网络面板 Network](https://github.com/xin113726/Blog/issues/4)
 
+[性能面板 Performance](https://github.com/xin113726/Blog/issues/5)
+
 
 #### 目录
 
