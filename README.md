@@ -2,7 +2,7 @@
 
 ![image](https://github.com/xin113726/Blog/blob/master/imgs/devtools.png?raw=true)
 
-[元素面板](https://github.com/xin113726/Blog/issues/1)
+[元素面板 Elements](https://github.com/xin113726/Blog/issues/1)
 
 [控制台面板 Console](https://github.com/xin113726/Blog/issues/2)
 
