@@ -12,7 +12,7 @@
 
 [性能面板 Performance](https://github.com/xin113726/Blog/issues/5)
 
-[内存面板 Memory](https://github.com/xin113726/Blog/issues/6)
+[Audits面板](https://github.com/xin113726/Blog/issues/6)
 
 
 #### 目录
