@@ -14,6 +14,28 @@
 
 [Audits面板](https://github.com/xin113726/Blog/issues/6)
 
+## 浏览器
+
+### 工作流程
+
+![image](https://github.com/xin113726/Blog/blob/master/imgs/page_show.png?raw=true)
+
+1. 浏览器进程接收到用户输入的 URL 请求，将该 URL 转发给网络进程
+
+2. 网络进程中发起真正的 URL 请求
+
+3. 网络进程接收到了响应头数据，便解析响应头数据，并将数据转发给浏览器进程
+
+4. 浏览器进程接收到响应头数据之后，发送“提交文档”消息到渲染进程
+
+5. 渲染进程接收到消息之后，和网络进程建立传输数据管道
+
+6. 数据传输完成之后，渲染进程会向浏览器进程发送“确认提交”的消息，浏览器进程接收到消息之后，便开始移除之前旧的文档，然后更新浏览器界面状态
+
+[导航流程](https://github.com/xin113726/Blog/issues/7)
+
+[渲染流程](https://github.com/xin113726/Blog/issues/8)
+
 
 #### 目录
 
