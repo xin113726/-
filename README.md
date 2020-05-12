@@ -36,6 +36,18 @@
 
 [渲染流程](https://github.com/xin113726/Blog/issues/8)
 
+## V8
+
+V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语言 JavaScript 翻译成机器语言
+
+![image](https://github.com/xin113726/Blog/blob/master/imgs/v8.jpg?raw=true)
+
+[V8如何执行一段JavaScript代码](https://github.com/xin113726/Blog/issues/9)
+
+### JavaScript 设计思想
+
+[JavaScript的函数特点：函数即对象](https://github.com/xin113726/Blog/issues/10)
+
 
 #### 目录
 
