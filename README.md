@@ -46,7 +46,13 @@ V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语�
 
 ### JavaScript 设计思想
 
-[JavaScript的函数特点：函数即对象](https://github.com/xin113726/Blog/issues/10)
+[JavaScript 函数](https://github.com/xin113726/Blog/issues/10)
+
+[V8如何提升对象属性访问速度](https://github.com/xin113726/Blog/issues/11)
+
+[原型链](https://github.com/xin113726/Blog/issues/12)
+
+[作用域链](https://github.com/xin113726/Blog/issues/13)
 
 
 #### 目录
