@@ -54,6 +54,14 @@ V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语�
 
 [作用域链](https://github.com/xin113726/Blog/issues/13)
 
+[类型系统](https://github.com/xin113726/Blog/issues/14)
+
+### V8 编译流水线
+
+[运行时环境](https://github.com/xin113726/Blog/issues/15)
+
+[CPU如何执行二进制机器码](https://github.com/xin113726/Blog/issues/16)
+
 
 #### 目录
 
