@@ -62,6 +62,8 @@ V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语�
 
 [CPU如何执行二进制机器码](https://github.com/xin113726/Blog/issues/16)
 
+[惰性解析](https://github.com/xin113726/Blog/issues/17)
+
 
 #### 目录
 
