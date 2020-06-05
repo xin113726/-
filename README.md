@@ -66,6 +66,10 @@ V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语�
 
 [字节码](https://github.com/xin113726/Blog/issues/18)
 
+### 时间循环和垃圾回收
+
+[异步编程](https://github.com/xin113726/Blog/issues/19)
+
 
 #### 目录
 
