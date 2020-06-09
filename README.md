@@ -70,6 +70,8 @@ V8 是 JavaScript 虚拟机的一种，开源 JavaScript 引擎。将编程语�
 
 [异步编程](https://github.com/xin113726/Blog/issues/19)
 
+[垃圾回收](https://github.com/xin113726/Blog/issues/20)
+
 
 #### 目录
 
