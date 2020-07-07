@@ -12,7 +12,7 @@
 
 [性能面板 Performance](https://github.com/xin113726/Blog/issues/5)
 
-[Audits面板](https://github.com/xin113726/Blog/issues/6)
+[Lighthouse面板](https://github.com/xin113726/Blog/issues/6)
 
 ## 浏览器
 
