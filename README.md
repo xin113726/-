@@ -1,7 +1,7 @@
 
 ## 目录
 
-- [Chrome 开发者工具](#Chrome 开发者工具)
+- [Chrome开发者工具](#Chrome开发者工具)
 
 - [浏览器工作原理](#浏览器工作原理)
 
@@ -11,7 +11,7 @@
 
 - [DevTools面板](#DevTools面板)
 
-## Chrome 开发者工具
+## Chrome开发者工具
 
 ![image](https://github.com/xin113726/Blog/blob/master/imgs/devtools.png?raw=true)
 
